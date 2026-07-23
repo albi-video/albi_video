@@ -39,13 +39,13 @@
 const VIDEOS = [
   // ── HERO SHOWREEL (featured: true) ───────────────────────────
   {
-    id: 'uHweuu7igDU',
+    id: 'U4hNBKAJgqU',
     source: 'youtube',
     orientation: 'horizontal',
     featured: true,
     title: 'Showreel 2026',
     thumbnail: null,
-    url: 'https://youtu.be/uHweuu7igDU',
+    url: 'https://youtu.be/U4hNBKAJgqU',
   },
 
   // ── GRID VIDEOS (featured: false) ────────────────────────────
@@ -64,14 +64,15 @@ const VIDEOS = [
   //   title:       "Reel — Title",
   //   thumbnail:   "assets/thumbs/myreel.jpg",
   // },
+
   {
-    id: 'e4kIygABjrw',
+    id: 'v2dmGEdX13g',
     source: 'youtube',
     orientation: 'vertical',
     featured: false,
-    title: 'Lagem ring',
+    title: 'Wantme brand',
     thumbnail: null,
-    url: 'https://youtu.be/e4kIygABjrw',
+    url: 'https://youtu.be/v2dmGEdX13g',
   },
   {
     id: 'oGIj3T-ZO_0',
@@ -84,13 +85,13 @@ const VIDEOS = [
   },
 
   {
-    id: 'wSCdv56Dp5M',
+    id: 'ufd6NLMxrig',
     source: 'youtube',
     orientation: 'horizontal',
     featured: false,
-    title: 'Dance video project',
+    title: 'Denisa and Jan wedding',
     thumbnail: null,
-    url: 'https://youtu.be/wSCdv56Dp5M',
+    url: 'https://youtu.be/ufd6NLMxrig',
   },
   // {
   //   id:          "insta",
@@ -122,22 +123,31 @@ const VIDEOS = [
     url: 'https://youtu.be/TgArI-Qg90Q',
   },
   {
-    id: 'Nv7Fb9uIS0Y',
+    id: 'e4kIygABjrw',
     source: 'youtube',
     orientation: 'vertical',
     featured: false,
-    title: 'Influencer campaign - Fanta',
+    title: 'Lagem ring',
     thumbnail: null,
-    url: 'https://youtu.be/Nv7Fb9uIS0Y',
+    url: 'https://youtu.be/e4kIygABjrw',
   },
   {
-    id: 'ufd6NLMxrig',
+    id: 'OEVA5Ac6bJk',
     source: 'youtube',
     orientation: 'horizontal',
     featured: false,
-    title: 'Denisa and Jan wedding',
+    title: 'Dance video visual "Chrysalis" by DIANA HUONG NGUYEN',
     thumbnail: null,
-    url: 'https://youtu.be/ufd6NLMxrig',
+    url: 'https://youtu.be/OEVA5Ac6bJk',
+  },
+  {
+    id: 'wSCdv56Dp5M',
+    source: 'youtube',
+    orientation: 'horizontal',
+    featured: false,
+    title: 'Dance video project',
+    thumbnail: null,
+    url: 'https://youtu.be/wSCdv56Dp5M',
   },
   {
     id: 'Gz1DHgW3RYQ',
@@ -147,5 +157,52 @@ const VIDEOS = [
     title: 'VeroniCouture Boutque & Atelier',
     thumbnail: null,
     url: 'https://youtu.be/Gz1DHgW3RYQ',
+  },
+
+  {
+    id: 'Bxcsn60iWXE',
+    source: 'youtube',
+    orientation: 'horizontal',
+    featured: false,
+    title: 'Dance visual by Natalie Helt',
+    thumbnail: null,
+    url: 'https://youtu.be/Bxcsn60iWXE',
+  },
+
+  {
+    id: '1TEVOtqQm-M',
+    source: 'youtube',
+    orientation: 'vertical',
+    featured: false,
+    title: 'Influencer campaign for Furiosa',
+    thumbnail: null,
+    url: 'https://youtu.be/1TEVOtqQm-M',
+  },
+  {
+    id: 'AIuaNs89III',
+    source: 'youtube',
+    orientation: 'vertical',
+    featured: false,
+    title: 'Visuals for Natalie Kocendova',
+    thumbnail: null,
+    url: 'https://youtu.be/AIuaNs89III',
+  },
+  {
+    id: 'D_JvdycGfFg',
+    source: 'youtube',
+    orientation: 'vertical',
+    featured: false,
+    title: 'Pilates reformer promo video',
+    thumbnail: null,
+    url: 'https://youtu.be/D_JvdycGfFg',
+  },
+  {
+    id: 'Nv7Fb9uIS0Y',
+    source: 'youtube',
+    orientation: 'vertical',
+    featured: false,
+    title: 'Influencer campaign - Fanta',
+    thumbnail: null,
+    url: 'https://youtu.be/Nv7Fb9uIS0Y',
   },
 ];
